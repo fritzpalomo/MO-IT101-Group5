@@ -24,7 +24,7 @@ public class InitialCode {
         double phoneAllowance = scanner.nextDouble();
         System.out.print("Enter Clothing Allowance: ");
         double clothingAllowance = scanner.nextDouble();
-        System.out.print            ("Enter Number of Hours Worked in a Week: ");
+        System.out.print ("Enter Number of Hours Worked in a Week: ");
         int hoursWorked = scanner.nextInt();
 
         // Calculate Gross Semi-Monthly rate
